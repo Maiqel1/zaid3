@@ -1,0 +1,33 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.back{
+    background-image:
+      url(img2.jpg), url(img3.jpg);
+    height: 980px;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.innerCard{
+    height: 520px;
+    opacity: 0.8;
+    border-radius: 7px;
+    
+}
+
+.logo-img{
+   height: 200px;
+   margin-top: 10px;
+   opacity: 0.8;
+   overflow: hidden;
+}
+
+.logo-img img{
+    height: 100%;
+    
+}
+
+
