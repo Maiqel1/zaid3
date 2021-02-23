@@ -21,13 +21,27 @@
 .logo-img{
    height: 200px;
    margin-top: 10px;
-   opacity: 0.8;
+   opacity: 0.5;
+   
    overflow: hidden;
 }
 
 .logo-img img{
     height: 100%;
     
+    
 }
 
+.logoTxt{
+    font-weight:900;
+    font-size: 60px;
+    font-family: 'Courier New', Courier, monospace;
+    opacity: 1;
+    
+}
+ 
+.logoTxt i{
+    margin-left: -20px;
+    color: green;
+}
 
